@@ -1,5 +1,7 @@
 # Stocks Analysis Template
 
+In this challenge, we'll be helping Steve to analyze a stock market dataset by means of Visual Basic for Aplications(VBA). 
+
 ##Overview of the project
 ### Purpose
 
