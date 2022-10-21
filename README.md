@@ -38,7 +38,7 @@ In the following pictures it could be appreciated the difference in running time
 Same case with year 2018.
 ![VBA_Challenge_2018.png](/Resources/VBA_Challenge_2018.png)
 
-This makes it clear that a refactor process for this code, made it process the information faster. 
+This makes it clear that a refactor process for this code, made it process the information for a fraction of the time. 
 
 ## Summary
 
