@@ -1,4 +1,4 @@
-# Stocks Analysis Template
+# Stocks Analysis 
 
 In this challenge, we'll be helping Steve to analyze a stock market dataset with just a click and entry data for the year to run the analysis on, by means of Visual Basic for Aplications(VBA). 
 
